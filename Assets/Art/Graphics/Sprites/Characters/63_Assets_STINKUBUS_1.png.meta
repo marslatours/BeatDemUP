@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 96
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -66,7 +66,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -114,7 +114,2800 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 311
+        width: 33
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb9459e37656144c8eb9656de1aec60
+      internalID: -690532034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 311
+        width: 31
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2830030d59f21c448b70e797035c3ae
+      internalID: 1137546834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 311
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a76493e52240049a008ca4ed1980fd
+      internalID: -758382846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 311
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4557b8611294ca343a87667f0d2a40a2
+      internalID: -562125878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_4
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 311
+        width: 33
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8d8a3a1bb0b5f4da5714dead23f789
+      internalID: -2063178604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_5
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 311
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db700306d9c207479873341a00cc6f4
+      internalID: 1660770937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_6
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 311
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb737ba6e710d248b39dbf69f794272
+      internalID: 918275907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_7
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 311
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b7501ac31aac549a1921b1c9321ef2
+      internalID: -1597065482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_8
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 311
+        width: 31
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853a2d7c435a00243a7ff665fc95928a
+      internalID: 801422652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_9
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 311
+        width: 29
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4918031c49829b54b87e56cba2ca3070
+      internalID: -2043422155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_10
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 311
+        width: 29
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a6695bc4356e3408a4c81a31283587
+      internalID: 1880023113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_11
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 311
+        width: 32
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296c4088265023d43ba6cd528b017a20
+      internalID: -1331925465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_12
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 311
+        width: 46
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11d5405befdacb4b89a8c0c367fca16
+      internalID: 1859756928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_13
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 311
+        width: 38
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fce20724b8a3c4b938d295cdec25b5
+      internalID: 862337510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_14
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 311
+        width: 38
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c38b4db5ff5d34398ed682597a439f
+      internalID: -2136121390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_15
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 311
+        width: 47
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f292da15f521b514ba9c9e691bd7a78b
+      internalID: 381199050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_16
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 311
+        width: 47
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb257ea56a13d24cb1d3d43962a3093
+      internalID: -1773653229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_17
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 311
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef9bd9fdc149fc4caabc9141adfcd2a
+      internalID: -844392266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_18
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 311
+        width: 40
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f853d5df69e4e7a4190b2436d59c9e4f
+      internalID: 1488745245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_19
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 311
+        width: 36
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14006ffaaa5a12e418e0d2a772648093
+      internalID: 1797101013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_20
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 311
+        width: 37
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8b454a45868a3479a919b84a87f943
+      internalID: 1946501192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_21
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 311
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e09bb89fe409b845843c8898d1e2c33
+      internalID: 761492245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_22
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 311
+        width: 40
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c117f65b28f45cd47a849d7cc52db395
+      internalID: -1446530015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_23
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 311
+        width: 40
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d11bc8910ecaad44b9dd6739b8e4faa
+      internalID: 1606491756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_24
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 311
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0e745a6fc428f4c93495f9bace4359
+      internalID: 1220161500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_25
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 316
+        width: 35
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295c7a989687cb44891066cee56fc9f9
+      internalID: -1415434771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_26
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 311
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36490d61f2cbd494eae0f075a6763049
+      internalID: 1529154180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_27
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 311
+        width: 38
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb029e08ffe21c24ab1f2b294219c72e
+      internalID: -1242113194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_28
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 317
+        width: 37
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdc3461781a1604e96b5634881202a0
+      internalID: -1300609847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_29
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 311
+        width: 28
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b429547b1d63e8a4e807b6a54a9f0a83
+      internalID: -584039860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_30
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 313
+        width: 35
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b4533a93b6b2548b294beac97f28a2
+      internalID: -1139083750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_31
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 313
+        width: 36
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84e872ce800ab844867be148097a426
+      internalID: 1705521281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_32
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 314
+        width: 35
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0505044f42f8060498bda98d4f6ca7a9
+      internalID: -711178435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_33
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 316
+        width: 37
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a6a4918d9c7ff42b6100c505e2257a
+      internalID: -77481171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_34
+      rect:
+        serializedVersion: 2
+        x: 3295
+        y: 313
+        width: 35
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e685bf79c1ca24781e7bb869c2deb2
+      internalID: -992432198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_35
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 313
+        width: 36
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1f4c459c3dcd9478c905fc5d8cb6bd
+      internalID: 1218774070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_36
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 311
+        width: 44
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df43ae9c24fb004b91a647867589b48
+      internalID: -1776779739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_37
+      rect:
+        serializedVersion: 2
+        x: 3581
+        y: 311
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34f98fcb95a36e488db289ce983b197
+      internalID: -1956775101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_38
+      rect:
+        serializedVersion: 2
+        x: 3678
+        y: 310
+        width: 45
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca035bb475f4a654badfe29eca440a82
+      internalID: -2117514408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_39
+      rect:
+        serializedVersion: 2
+        x: 3778
+        y: 310
+        width: 39
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3d04ab8577dd440a0b50e975d61b5b
+      internalID: 94950104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_40
+      rect:
+        serializedVersion: 2
+        x: 3872
+        y: 309
+        width: 38
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fee23cb6e780f41acd4653cbd61d63
+      internalID: -1757498947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_41
+      rect:
+        serializedVersion: 2
+        x: 3969
+        y: 309
+        width: 46
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324925e71e2392f4089adfde80f72442
+      internalID: 1379061278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_42
+      rect:
+        serializedVersion: 2
+        x: 4062
+        y: 309
+        width: 47
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3bc30525369a44aad775977fc17469
+      internalID: -338908172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_43
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 215
+        width: 46
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f4b1c16c4f8634d8861858915bcdfe
+      internalID: -744114702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_44
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 215
+        width: 40
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb7fd7ec38e3a749bbe2c417fc40148
+      internalID: -1775737393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_45
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 215
+        width: 35
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f082bec493692b49bcaa00a350245e0
+      internalID: 27806258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 214
+        width: 38
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e684246a933a1479511ae2273b3f3f
+      internalID: 761741298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_47
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 214
+        width: 42
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac30a4cc96572348b3a9104dc94ec41
+      internalID: -210087169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_48
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 215
+        width: 40
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4e41e5e236d864ea36f4d827a73ffc
+      internalID: 845246820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_49
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 217
+        width: 39
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade8c376f8a5ce4448d7cf1e61ecec92
+      internalID: -480958897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_50
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 218
+        width: 30
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974aa554aab94bf4d8a933ab68d2e6ff
+      internalID: 1948115440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_51
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 218
+        width: 29
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e367538d299604e8cf6e577d69e440
+      internalID: -1399269245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_52
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 216
+        width: 38
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1194e36b2df82c4a91e72928a03e190
+      internalID: 445864731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_53
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 216
+        width: 38
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135f132e9e6f2244cb87c35a2772e743
+      internalID: 1598407978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_54
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 216
+        width: 37
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881095b0cd5d535438224d161d15c367
+      internalID: -2131903062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_55
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 216
+        width: 34
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08107c916d66b534ebed59342731e5df
+      internalID: -674385902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_56
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 216
+        width: 35
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288143da8d2d69e40af8c4718bd2f782
+      internalID: -1724956662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_57
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 216
+        width: 27
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d3d9d5026f6b345b3d8d31062331c4
+      internalID: 1688500097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_58
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 216
+        width: 28
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2d18dcb8173ec45ab90e8cb1fe8c5d
+      internalID: -49096878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_59
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 216
+        width: 30
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf16120ac31be84c80a17ecdb8c389f
+      internalID: -1496290158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_60
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 217
+        width: 28
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96628a873d4737469e776ca29a75700
+      internalID: 10961533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_61
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 217
+        width: 27
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be6f1f7a43436f4189556ec60eb716c
+      internalID: -903278895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_62
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 217
+        width: 31
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebc5125855b13746a9a24d2f885178e
+      internalID: -915836666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_63
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 216
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53c78c8e90678143a8a25d805a151bf
+      internalID: 1704869859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_64
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 216
+        width: 33
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4003a52c0e2e847a42c344b32e9414
+      internalID: 1719767053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_65
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 216
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091911d82f7f7054ca955864c2e045c9
+      internalID: 1176850866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_66
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 216
+        width: 33
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17df847451e61194890e645e648fa6a6
+      internalID: 1922761494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_67
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 216
+        width: 32
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72efbe43be1e1d47ae76650f8b72db8
+      internalID: 603665709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_68
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 216
+        width: 32
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9085833365f424ca002dabfee53f1c
+      internalID: -418521331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_69
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 216
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a0b080ed6c8fc459cd92da763f81af
+      internalID: -9824634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_70
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 216
+        width: 33
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1011e1b198f4d2f4a80f1472e4343d64
+      internalID: 128737000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_71
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 216
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f88ea6573ccd944ebd4f5a731f589ec
+      internalID: 1010772311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_72
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 216
+        width: 32
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e701f1d467e19df4c9389fddc69317a0
+      internalID: -1568541008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_73
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 216
+        width: 32
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d48e55ce15cef14194fcac9b2a274dc
+      internalID: 2010909366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_74
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 216
+        width: 33
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27823943a0d775742b54ab6dff98e171
+      internalID: -1156589003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_75
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 216
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045587feaa18516409f84c7d64892d21
+      internalID: -286806900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_76
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 216
+        width: 32
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c98ecb0079d590449348a1080321886
+      internalID: 521653661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_77
+      rect:
+        serializedVersion: 2
+        x: 3295
+        y: 216
+        width: 32
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387005dde0c68a349906a7249736b859
+      internalID: -210395931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_78
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 216
+        width: 33
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3109692a36239944ba4a42da81770cc6
+      internalID: -1724671365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_79
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 218
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221f33ab684554a4ead31437f09b2d42
+      internalID: 364583733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_80
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 218
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc661d8b8168db744a13708fd3c19d4a
+      internalID: 583104318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_81
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 219
+        width: 33
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40f8e484f44b824bb865be5e40a8c76
+      internalID: 774462681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_82
+      rect:
+        serializedVersion: 2
+        x: 3772
+        y: 221
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaab48b0b5811b4bbd4245818890bb0
+      internalID: -147645751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_83
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 218
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741a43ece72e95f45979d00d5e24be5a
+      internalID: 717155393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_84
+      rect:
+        serializedVersion: 2
+        x: 3964
+        y: 218
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee1e7778efff394d82c8405451d0364
+      internalID: -770772342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_85
+      rect:
+        serializedVersion: 2
+        x: 4061
+        y: 216
+        width: 33
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65ce8e104b00f24db71a9116ff82635
+      internalID: -1040839635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_86
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 119
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2526c167cc249c646af2a8295d722d51
+      internalID: 1609387965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_87
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 120
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b0eb73972ba764895d62328406dd97
+      internalID: -1197883678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_88
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 124
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66514f094f7381d479beb4d5cebde5af
+      internalID: 973463725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_89
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 119
+        width: 33
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a266d8053f800a4e9aa9e0ba464ba5e
+      internalID: -1407181837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_90
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 119
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898a3fc57d0481a4c93ecf214d24ef83
+      internalID: -845444377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_91
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 125
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e84ca07534a014a8b06b64c202d99a
+      internalID: 1932413720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_92
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 119
+        width: 32
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee25a9f15f628b478892968bfeee981
+      internalID: 1451435372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_93
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 121
+        width: 35
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4802dc1f8885354bae71abd0950bc36
+      internalID: 384178559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_94
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 125
+        width: 39
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef9faa4e89d5e545958a5c55e9c2c5c
+      internalID: 1404073213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_95
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 115
+        width: 46
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ea0a60c7868ed4d8e134f79950ac5d
+      internalID: -875787700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_96
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 114
+        width: 46
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e30912754d43c4dab2251bd4733670
+      internalID: -1386682449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_97
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 115
+        width: 47
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773294006f412f444bd1814c521754db
+      internalID: 464323372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_98
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 119
+        width: 32
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87de671393100e4886e837f3ed71c00
+      internalID: 1315635762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_99
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 119
+        width: 32
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637040e77fed1c44cac418e6b2d80582
+      internalID: -2040530066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_100
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 130
+        width: 31
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd7e880f54298847bb7cd020835f737
+      internalID: -162804205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_101
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 127
+        width: 31
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51c8a26028a51b44909e64a329700a7
+      internalID: 1697253700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_102
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 124
+        width: 29
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c87a30ddf600ad48859bb0a23fbbded
+      internalID: 1979240746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_103
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 119
+        width: 32
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11c9dda006c3744187157364f03c0a1
+      internalID: -1145250441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_104
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 119
+        width: 32
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b753165751c894943b4d967d018b745a
+      internalID: -745597875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_105
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 119
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba23f64e7f5abc04ca5cf7886d3936ed
+      internalID: 2029233298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_106
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 119
+        width: 44
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1009b0ac918415342b05e57bb4e4707e
+      internalID: 1841253365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_107
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 119
+        width: 43
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd271ab28e715449938fec638fc5e2e
+      internalID: 2121121475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_108
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 119
+        width: 44
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9862ff4f257943b479aac9d3c272ced4
+      internalID: -307605552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_109
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 119
+        width: 45
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cefc0207abe8f49b82e850a79a9f37
+      internalID: -586842470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_110
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 119
+        width: 42
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb33c28e89fb2bd47a86e4fe3040d895
+      internalID: -1544396604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_111
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 119
+        width: 42
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e32cbc154616e840b410dd479a53a33
+      internalID: -11557769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_112
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 119
+        width: 44
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e614f35e128b9a749ab0527c7eb69241
+      internalID: -1160101091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_113
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 119
+        width: 43
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8204c2a7cb9573f43aaef6e280893e42
+      internalID: 129986899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_114
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 119
+        width: 43
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a6545656eb3ea4096d82900ef8a032
+      internalID: -745866999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_115
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 119
+        width: 44
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76ff73c3a019cc44b97ac434fa70a39
+      internalID: -1229235679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_116
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 119
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4d5e7823185dc4f907cf7126159847
+      internalID: -980997063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_117
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 120
+        width: 33
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2e6b3275b2b37418167121178864f9
+      internalID: -57820376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_118
+      rect:
+        serializedVersion: 2
+        x: 3106
+        y: 119
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8040fc73568a704b979b646bd8d635e
+      internalID: -766767282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_119
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 119
+        width: 30
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08370273017924489633db0bcd0373c
+      internalID: 731300958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_120
+      rect:
+        serializedVersion: 2
+        x: 3302
+        y: 119
+        width: 27
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef5aafa3535cb0449dd762e15f4bb24
+      internalID: 1732296094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_121
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 119
+        width: 28
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59f7516321deb34db0af62dc87e622d
+      internalID: -707497888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_122
+      rect:
+        serializedVersion: 2
+        x: 3490
+        y: 119
+        width: 27
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38362584b3ae862428119a5d6dbff19f
+      internalID: -1433657152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_123
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 118
+        width: 34
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7e7e88c457ba94c9ebd1b236a183eb
+      internalID: 1721867460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_124
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 119
+        width: 29
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b72618eb784ee54b9e8da349bca7b22
+      internalID: 150810966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_125
+      rect:
+        serializedVersion: 2
+        x: 3782
+        y: 119
+        width: 27
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffbc16e2b4b03349a42cea74cbbc39d
+      internalID: -491602375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_126
+      rect:
+        serializedVersion: 2
+        x: 3874
+        y: 119
+        width: 30
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f4d536ca979534f8e8b870fbf83846
+      internalID: -1182892014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_127
+      rect:
+        serializedVersion: 2
+        x: 3967
+        y: 119
+        width: 31
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d22307c137ce744a956b8b6f32765e3
+      internalID: -730841996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_128
+      rect:
+        serializedVersion: 2
+        x: 4064
+        y: 119
+        width: 30
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfac307855179648974ffa3664ea21f
+      internalID: -798635970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_129
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 23
+        width: 45
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893402da590e4c44fa55ff260854889d
+      internalID: -154847826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_130
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 23
+        width: 44
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397aa5b2d261d034fac61127212899dc
+      internalID: 1167114507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_131
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 28
+        width: 53
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf38c3e603391414d882a3c45561aff0
+      internalID: -38686941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_132
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 28
+        width: 54
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3671a89884f6040b726f67ff3cb484
+      internalID: 1139960384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -125,7 +2918,140 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      63_Assets_STINKUBUS_1_85: -1040839635
+      63_Assets_STINKUBUS_1_97: 464323372
+      63_Assets_STINKUBUS_1_20: 1946501192
+      63_Assets_STINKUBUS_1_87: -1197883678
+      63_Assets_STINKUBUS_1_125: -491602375
+      63_Assets_STINKUBUS_1_1: 1137546834
+      63_Assets_STINKUBUS_1_114: -745866999
+      63_Assets_STINKUBUS_1_118: -766767282
+      63_Assets_STINKUBUS_1_34: -992432198
+      63_Assets_STINKUBUS_1_19: 1797101013
+      63_Assets_STINKUBUS_1_15: 381199050
+      63_Assets_STINKUBUS_1_93: 384178559
+      63_Assets_STINKUBUS_1_21: 761492245
+      63_Assets_STINKUBUS_1_79: 364583733
+      63_Assets_STINKUBUS_1_33: -77481171
+      63_Assets_STINKUBUS_1_117: -57820376
+      63_Assets_STINKUBUS_1_101: 1697253700
+      63_Assets_STINKUBUS_1_27: -1242113194
+      63_Assets_STINKUBUS_1_67: 603665709
+      63_Assets_STINKUBUS_1_2: -758382846
+      63_Assets_STINKUBUS_1_4: -2063178604
+      63_Assets_STINKUBUS_1_44: -1775737393
+      63_Assets_STINKUBUS_1_49: -480958897
+      63_Assets_STINKUBUS_1_129: -154847826
+      63_Assets_STINKUBUS_1_37: -1956775101
+      63_Assets_STINKUBUS_1_9: -2043422155
+      63_Assets_STINKUBUS_1_26: 1529154180
+      63_Assets_STINKUBUS_1_7: -1597065482
+      63_Assets_STINKUBUS_1_112: -1160101091
+      63_Assets_STINKUBUS_1_29: -584039860
+      63_Assets_STINKUBUS_1_107: 2121121475
+      63_Assets_STINKUBUS_1_122: -1433657152
+      63_Assets_STINKUBUS_1_18: 1488745245
+      63_Assets_STINKUBUS_1_83: 717155393
+      63_Assets_STINKUBUS_1_52: 445864731
+      63_Assets_STINKUBUS_1_8: 801422652
+      63_Assets_STINKUBUS_1_43: -744114702
+      63_Assets_STINKUBUS_1_42: -338908172
+      63_Assets_STINKUBUS_1_74: -1156589003
+      63_Assets_STINKUBUS_1_115: -1229235679
+      63_Assets_STINKUBUS_1_51: -1399269245
+      63_Assets_STINKUBUS_1_131: -38686941
+      63_Assets_STINKUBUS_1_32: -711178435
+      63_Assets_STINKUBUS_1_65: 1176850866
+      63_Assets_STINKUBUS_1_120: 1732296094
+      63_Assets_STINKUBUS_1_64: 1719767053
+      63_Assets_STINKUBUS_1_111: -11557769
+      63_Assets_STINKUBUS_1_71: 1010772311
+      63_Assets_STINKUBUS_1_12: 1859756928
+      63_Assets_STINKUBUS_1_55: -674385902
+      63_Assets_STINKUBUS_1_99: -2040530066
+      63_Assets_STINKUBUS_1_46: 761741298
+      63_Assets_STINKUBUS_1_48: 845246820
+      63_Assets_STINKUBUS_1_123: 1721867460
+      63_Assets_STINKUBUS_1_128: -798635970
+      63_Assets_STINKUBUS_1_92: 1451435372
+      63_Assets_STINKUBUS_1_103: -1145250441
+      63_Assets_STINKUBUS_1_50: 1948115440
+      63_Assets_STINKUBUS_1_17: -844392266
+      63_Assets_STINKUBUS_1_38: -2117514408
+      63_Assets_STINKUBUS_1_100: -162804205
+      63_Assets_STINKUBUS_1_62: -915836666
+      63_Assets_STINKUBUS_1_94: 1404073213
+      63_Assets_STINKUBUS_1_31: 1705521281
+      63_Assets_STINKUBUS_1_70: 128737000
+      63_Assets_STINKUBUS_1_47: -210087169
+      63_Assets_STINKUBUS_1_98: 1315635762
+      63_Assets_STINKUBUS_1_45: 27806258
+      63_Assets_STINKUBUS_1_35: 1218774070
+      63_Assets_STINKUBUS_1_102: 1979240746
+      63_Assets_STINKUBUS_1_108: -307605552
+      63_Assets_STINKUBUS_1_72: -1568541008
+      63_Assets_STINKUBUS_1_11: -1331925465
+      63_Assets_STINKUBUS_1_104: -745597875
+      63_Assets_STINKUBUS_1_73: 2010909366
+      63_Assets_STINKUBUS_1_113: 129986899
+      63_Assets_STINKUBUS_1_60: 10961533
+      63_Assets_STINKUBUS_1_30: -1139083750
+      63_Assets_STINKUBUS_1_90: -845444377
+      63_Assets_STINKUBUS_1_56: -1724956662
+      63_Assets_STINKUBUS_1_86: 1609387965
+      63_Assets_STINKUBUS_1_39: 94950104
+      63_Assets_STINKUBUS_1_10: 1880023113
+      63_Assets_STINKUBUS_1_110: -1544396604
+      63_Assets_STINKUBUS_1_24: 1220161500
+      63_Assets_STINKUBUS_1_54: -2131903062
+      63_Assets_STINKUBUS_1_3: -562125878
+      63_Assets_STINKUBUS_1_57: 1688500097
+      63_Assets_STINKUBUS_1_77: -210395931
+      63_Assets_STINKUBUS_1_88: 973463725
+      63_Assets_STINKUBUS_1_105: 2029233298
+      63_Assets_STINKUBUS_1_109: -586842470
+      63_Assets_STINKUBUS_1_61: -903278895
+      63_Assets_STINKUBUS_1_96: -1386682449
+      63_Assets_STINKUBUS_1_89: -1407181837
+      63_Assets_STINKUBUS_1_40: -1757498947
+      63_Assets_STINKUBUS_1_16: -1773653229
+      63_Assets_STINKUBUS_1_22: -1446530015
+      63_Assets_STINKUBUS_1_84: -770772342
+      63_Assets_STINKUBUS_1_23: 1606491756
+      63_Assets_STINKUBUS_1_116: -980997063
+      63_Assets_STINKUBUS_1_0: -690532034
+      63_Assets_STINKUBUS_1_106: 1841253365
+      63_Assets_STINKUBUS_1_80: 583104318
+      63_Assets_STINKUBUS_1_82: -147645751
+      63_Assets_STINKUBUS_1_25: -1415434771
+      63_Assets_STINKUBUS_1_59: -1496290158
+      63_Assets_STINKUBUS_1_78: -1724671365
+      63_Assets_STINKUBUS_1_36: -1776779739
+      63_Assets_STINKUBUS_1_13: 862337510
+      63_Assets_STINKUBUS_1_6: 918275907
+      63_Assets_STINKUBUS_1_91: 1932413720
+      63_Assets_STINKUBUS_1_132: 1139960384
+      63_Assets_STINKUBUS_1_124: 150810966
+      63_Assets_STINKUBUS_1_14: -2136121390
+      63_Assets_STINKUBUS_1_28: -1300609847
+      63_Assets_STINKUBUS_1_58: -49096878
+      63_Assets_STINKUBUS_1_66: 1922761494
+      63_Assets_STINKUBUS_1_68: -418521331
+      63_Assets_STINKUBUS_1_69: -9824634
+      63_Assets_STINKUBUS_1_121: -707497888
+      63_Assets_STINKUBUS_1_5: 1660770937
+      63_Assets_STINKUBUS_1_53: 1598407978
+      63_Assets_STINKUBUS_1_41: 1379061278
+      63_Assets_STINKUBUS_1_75: -286806900
+      63_Assets_STINKUBUS_1_81: 774462681
+      63_Assets_STINKUBUS_1_76: 521653661
+      63_Assets_STINKUBUS_1_130: 1167114507
+      63_Assets_STINKUBUS_1_95: -875787700
+      63_Assets_STINKUBUS_1_127: -730841996
+      63_Assets_STINKUBUS_1_63: 1704869859
+      63_Assets_STINKUBUS_1_126: -1182892014
+      63_Assets_STINKUBUS_1_119: 731300958
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
