@@ -15,6 +15,8 @@ public class IdleState : StateMachineBehaviour
         float distance = Vector2.Distance(target.position, animator.transform.position);
         if (distance < 7)
             animator.SetBool("isWalking", true);
+
+
     }
 
     public override void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)

@@ -13,7 +13,7 @@ public class WalkState : StateMachineBehaviour
 
     public override void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        Vector2 newPos = new Vector2(target.position.x, animator.transform.position.y);
+        Vector2 newPos = new Vector2(target.position.x, target.position.y);
         animator.transform.position = Vector2.MoveTowards(animator.transform.position, newPos, speed * Time.deltaTime);
     }
 
