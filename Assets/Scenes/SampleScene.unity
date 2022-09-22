@@ -137,6 +137,7 @@ GameObject:
   - component: {fileID: 118297135}
   - component: {fileID: 118297139}
   - component: {fileID: 118297140}
+  - component: {fileID: 118297141}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -291,6 +292,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &118297141
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 118297134}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42a8d8fc81a0de34b9bad56a78e8c02a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 5
 --- !u!1 &176901420
 GameObject:
   m_ObjectHideFlags: 0
@@ -1531,7 +1545,6 @@ GameObject:
   - component: {fileID: 2036984786}
   - component: {fileID: 2036984785}
   - component: {fileID: 2036984788}
-  - component: {fileID: 2036984787}
   m_Layer: 0
   m_Name: STREET_BARRIER
   m_TagString: Untagged
@@ -1606,32 +1619,6 @@ Transform:
   m_Father: {fileID: 1489578008}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!68 &2036984787
-EdgeCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2036984784}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_EdgeRadius: 0
-  m_Points:
-  - {x: -0.71353996, y: 1.145638}
-  - {x: -0.6430244, y: -0.33030963}
-  - {x: 0.19347012, y: -1.1530242}
-  - {x: 0.5252899, y: -1.156053}
-  - {x: 0.5260719, y: -0.06248957}
-  - {x: -0.71329975, y: 1.135223}
-  m_AdjacentStartPoint: {x: 0, y: 0}
-  m_AdjacentEndPoint: {x: 0, y: 0}
-  m_UseAdjacentStartPoint: 0
-  m_UseAdjacentEndPoint: 0
 --- !u!50 &2036984788
 Rigidbody2D:
   serializedVersion: 4
@@ -1732,6 +1719,14 @@ PrefabInstance:
       propertyPath: m_SpriteSortPoint
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4857694471590828751, guid: f20e82400adec414594f9a3ea0939e2f, type: 3}
+      propertyPath: m_Mass
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4857694471590828751, guid: f20e82400adec414594f9a3ea0939e2f, type: 3}
+      propertyPath: m_BodyType
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4857694471590828849, guid: f20e82400adec414594f9a3ea0939e2f, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -1779,6 +1774,10 @@ PrefabInstance:
     - target: {fileID: 4857694471590828850, guid: f20e82400adec414594f9a3ea0939e2f, type: 3}
       propertyPath: m_Name
       value: Green_Ennemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 4857694471590828850, guid: f20e82400adec414594f9a3ea0939e2f, type: 3}
+      propertyPath: m_TagString
+      value: Ennemy
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f20e82400adec414594f9a3ea0939e2f, type: 3}
