@@ -19,8 +19,9 @@ public class PlayerMovement : MonoBehaviour
 
     private void Update()
     {
+        float verticalInput = Input.GetAxis("Vertical");
         float horizontalInput = Input.GetAxis("Horizontal");
-        rb.velocity = new Vector2(horizontalInput * speed, rb.velocity.y);
+        rb.velocity = new Vector2(horizontalInput * speed, verticalInput * speed);
 
         if (horizontalInput > 0.01f)
             transform.localScale = Vector3.one;
