@@ -15,6 +15,10 @@ public class WalkState : StateMachineBehaviour
     {
         Vector2 newPos = new Vector2(target.position.x, target.position.y);
         animator.transform.position = Vector2.MoveTowards(animator.transform.position, newPos, speed * Time.deltaTime);
+
+       float distance = Vector2.Distance(target.position, animator.transform.position);
+        if (distance < 1)
+            animator.SetBool("isAttacking", true);
     }
 
     public override void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)

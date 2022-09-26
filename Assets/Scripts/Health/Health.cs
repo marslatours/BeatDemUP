@@ -38,12 +38,21 @@ public class Health : MonoBehaviour
 
     }
 
-
-    private void Update()
+    private void OnTriggerEnter2D(Collider2D collider)
     {
-        if (Input.GetKeyDown(KeyCode.E))
+        if (collider.gameObject.name == "Punch")
+        {
+            //Debug.Log("collision happened");
             TakeDamage(1);
+        }
+
     }
+
+    
+        
+    
+
+
 
 
 }

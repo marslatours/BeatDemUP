@@ -29,6 +29,10 @@ public class PlayerMovement : MonoBehaviour
             transform.localScale = new Vector3(-1, 1, 1);
 
         anim.SetBool("isWalking", horizontalInput != 0);
+
+
+
+
     }
 
 }
