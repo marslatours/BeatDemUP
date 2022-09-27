@@ -31,6 +31,8 @@ public class Health : MonoBehaviour
             {
                 anim.SetTrigger("death");
                 GetComponent<PlayerMovement>().enabled = false;
+                GameOverScreen.isGameOver = true; 
+                
             }
             
         }
